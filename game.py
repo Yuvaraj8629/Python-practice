@@ -38,3 +38,4 @@ while True:
         print("Computer wins!")
         computer_score += 1
     print(f"Score → You: {player_score} | Computer: {computer_score}")
+print("This project is now on GitHub!")
